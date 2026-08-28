@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi I'm Frédéric 👋
+
+I am a software engineer based in France. 
+
+🔹 **Techs & stacks**: C/C++, Python, Rust, TypeScript, WebAssembly (in-browser and server-side).
+
+- 🔭 I am currently working on [Baradir](https://github.com/hakilebara/baradir) an orchestrator of server-side WebAssembly components
+- 👾 I am learning computer graphics by building [wasm-raytracer](https://hakilebara.com/wasm-raytracer/)
+- 🌱 I am learning computer science fundamentals with [csprimer](https://github.com/hakilebara/csprimer)
+
+**I am open for work as a backend, fullstack or system engineer**
 
 <!--
 **hakilebara/hakilebara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
