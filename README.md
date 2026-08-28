@@ -6,7 +6,9 @@ I am a software engineer based in France.
 
 - 🔭 I am currently working on [Baradir](https://github.com/hakilebara/baradir) an orchestrator of server-side WebAssembly components
 - 👾 I am learning computer graphics by building [wasm-raytracer](https://hakilebara.com/wasm-raytracer/)
-- 🌱 I am learning computer science fundamentals with [csprimer](https://github.com/hakilebara/csprimer)
+- 🌱 I am learning foundational computer science with [csprimer](https://github.com/hakilebara/csprimer)
+
+- ⚡ Fun fact: I can touch type at an average of 80+ words per minute
 
 **I am open for work as a backend, fullstack or system engineer**
 
